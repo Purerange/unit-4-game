@@ -1,0 +1,21 @@
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.jumbotron {
+    padding: 20px;
+}
+
+img {
+    cursor: pointer;
+}
+
+p {
+    font-weight: bold;
+}
+
+#game-container {
+    margin-top: 40px;
+    background: lightgray;
+}
